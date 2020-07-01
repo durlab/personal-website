@@ -1,0 +1,216 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding:0;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    font-size: 70px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+
+h4{
+    margin-top: 60px;
+    padding-bottom: 0;
+}
+h4,h5{
+    text-align: center;
+}
+h5{
+    margin-top: 0px;
+    padding-top: 0;
+}
+.name-highlight{
+    font-size: 70px;
+    color:rgb(226, 21, 141);
+}
+.client{
+    margin: -10px;
+    color: gray;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.im{
+    font-size: 60px;
+    font-weight: bold;
+    color: green;
+}
+.one{
+    padding-top: 100px;
+}
+.two{
+    padding-top: 150px;
+}
+.half-width img{
+    width: 100%;
+    padding-top: 10px;
+}
+.latest-work{
+    width: 29%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+    padding-top: 100px;
+}
+.latest-work img{
+    width: 100%;
+    padding-top: 10px;
+}
+#lw{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 50px;
+}
+}
+blockquote{
+    margin: 0 auto;
+    width: 40%;
+    margin-bottom: 40px;
+}
+.mail{
+    padding: 25px;
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(90deg,rgb(28, 156, 173),rgb(19, 209, 67));
+    border-radius: 5px;
+}
+.mail a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+}
+.hello{
+    background: url(images/header-bg.png) no-repeat center center fixed;
+    background-size: 100% 100%;
+    
+}
+.hello-bg{
+background-image: cover;
+}
+section{
+    padding: 30px;
+    height: 500px;
+    padding-bottom: 150px;
+}
+p{
+     color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(90deg,red,rgb(226, 21, 141));
+    color: white;
+    padding:10px 20px;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.button{
+    text-decoration: none;
+   background-image: linear-gradient(90deg,rgb(28, 156, 173),rgb(19, 209, 67));
+    color: white;
+    padding:10px 20px;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.dream-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    Background-size: cover;
+    
+}
+.experience-area{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    Background-size: cover;
+   
+}
+.client-say{
+    background-image: url(images/footer-bg.png);
+    Background-size: cover;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+}
+blockquote{
+    text-align: center;
+    margin-top: 40px;
+    padding: 3px;
+    font-style: italic;
+    line-height: 145%;
+}
+.contact-form{
+    width: 50%;
+    max-width: 500px;
+    background: #f2f5f5;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.contact{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    Background-size: cover;
+}
+.textb{
+    border: 1px solid gray;
+    margin: 8px 0;
+    padding: 12px 18px;
+    border-radius: 8px;
+}
+
+.textb label{
+    display: block;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.textb input, .textb textarea{
+    width:100%;
+    border: none;   
+   background: none;
+     font-size: 14px;
+   margin-top: 6px; 
+}
+.btn{
+   display: inline-block;
+   background-image: linear-gradient(90deg,rgb(28, 156, 173),rgb(19, 209, 67));
+   color: white;
+   text-transform: uppercase;
+   cursor: pointer;
+   width: 100%;
+   padding: 14px 0;
+   border-radius: 8px;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(7, 6, 4);
+    padding-bottom: 12px;
+    background-color: rgb(196, 193, 193);
+}
